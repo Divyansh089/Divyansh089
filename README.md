@@ -29,12 +29,13 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 
 <p align="center">
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=025" width="32" alt="Ethereum" />
-  <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/docs/web3js.svg" width="100" alt="Web3.js" />
-  <img src="https://seeklogo.com/images/E/ethers-logo-CE2D95A936-seeklogo.com.png" width="100" alt="Ethers.js" />
-  <img src="https://hardhat.org/assets/hardhat-logo.svg" width="50" alt="Hardhat" />
-  <img src="https://seeklogo.com/images/G/ganache-logo-0DC138430F-seeklogo.com.png" width="80" alt="Ganache" />
-  <img src="https://avatars.githubusercontent.com/u/10747132?s=280&v=4" width="40" alt="Remix IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/ChainSafe/web3.js/docs/web3js.png" width="100" alt="Web3.js" />
+  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/resources/logo-ethers.png" width="100" alt="Ethers.js" />
+  <img src="https://hardhat.org/assets/hardhat-logo.png" width="50" alt="Hardhat" />
+  <img src="https://trufflesuite.com/img/ganache-logo.png" width="80" alt="Ganache" />
+  <img src="https://remix.ethereum.org/assets/img/icon.png" width="40" alt="Remix IDE" />
 </p>
+
 
 ### 📊 GitHub Stats
 
