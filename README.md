@@ -28,7 +28,7 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 ### 🔗 Web3 Stack
 
 <p align="center">
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=025" width="32" alt="Ethereum" />
+  <img src="https://cdn.jsdelivr.net/npm/@web3icons/react@latest/icons/eth.svg" width="32" alt="Ethereum" />
   <img src="https://cdn.jsdelivr.net/gh/ChainSafe/web3.js/docs/web3js.png" width="100" alt="Web3.js" />
   <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/resources/logo-ethers.png" width="100" alt="Ethers.js" />
   <img src="https://hardhat.org/assets/hardhat-logo.png" width="50" alt="Hardhat" />
