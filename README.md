@@ -47,17 +47,6 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh089&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- Cyberpunk SVG Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/svg/banner.svg?color=gradient" alt="Banner" />
-</p>
-
-<!-- 3D NFT Viewer -->
-<p align="center">
-  <a href="https://opensea.io/assets/your-nft-link" target="_blank">
-    <img src="https://your-3d-nft-preview-link.glb" alt="3D NFT" width="300" style="border-radius: 12px; transform: rotateY(10deg);" />
-  </a>
-</p>
 
 ### 🌐 Let’s Connect
 
