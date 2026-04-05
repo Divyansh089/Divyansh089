@@ -36,7 +36,6 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
   <img src="https://remix.ethereum.org/assets/img/icon.png" width="40" alt="Remix IDE" />
 </p>
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -47,9 +46,12 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh089&layout=compact&theme=tokyonight" />
 </p>
 
+### 👾 Pacman Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Divyansh089/Divyansh089/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+</p>
 ### 🌐 Let’s Connect
 
 - 💬 I’m open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
 - 📫 [Twitter](https://x.com/DPatel8085) | [LinkedIn](https://linkedin.com/in/pateldivyansh131) | [Portfolio](https://yourportfolio.io/)
-
