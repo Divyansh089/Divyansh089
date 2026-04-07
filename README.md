@@ -7,11 +7,11 @@
 
 ---
 
-### 🧬 About Me
+## 🧬 About Me
 
-## I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the decentralized future of the internet. From NFTs and DeFi to smart contracts and DAOs, I'm all about building trustless systems using modern web technologies and blockchain protocols. Let's break the chains of centralization together!
+### I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the decentralized future of the internet. From NFTs and DeFi to smart contracts and DAOs, I'm all about building trustless systems using modern web technologies and blockchain protocols. Let's break the chains of centralization together!
 
-### 🛠️ My Tech Arsenal
+## 🛠️ My Tech Arsenal
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
@@ -25,7 +25,7 @@
   <img src="public/images/tailwindcss.png" width="40" alt="Tailwindcss" />
 </p>
 
-### 🔗 Web3 Stack
+## 🔗 Web3 Stack
 
 <p align="center">
   <img src="public/images/bitcoin.webp" width="40" alt="Bitcoin" />
@@ -40,7 +40,7 @@
   <img src="public/images/defi.webp" width="40" alt="DeFi" />
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -58,13 +58,13 @@
   </tr>
 </table>
 
-### 👾 Pacman Contribution Graph
+## 👾 Pacman Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Divyansh089/Divyansh089/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </p>
 
-### 🌐 Let’s Connect
+## 🌐 Let’s Connect
 
 - 💬 I'm open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
 <p align="left">
