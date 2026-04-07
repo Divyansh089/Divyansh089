@@ -63,18 +63,20 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 <p align="center">
   <img src="https://raw.githubusercontent.com/Divyansh089/Divyansh089/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </p>
+
 ### 🌐 Let’s Connect
 
-<p align="center">
+- 💬 I'm open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
+<p align="left">
   <a href="https://x.com/DPatel8085" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" />
+    <img src="public/images/x.webp" width="40" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/pateldivyansh131" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/dpatel3839" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" alt="Discord" />
+    <img src="public/images/discord.webp" width="40" alt="Discord" />
   </a>
 </p>
 
-- 💬 I'm open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
+
