@@ -22,20 +22,21 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.tailwindcss.com" width="40" alt="Tailwind CSS" />
+  <img src="public/images/tailwindcss.png" width="40" alt="Tailwindcss" />
 </p>
 
 ### 🔗 Web3 Stack
 
 <p align="center">
+  <img src="public/images/bitcoin.webp" width="40" alt="Bitcoin" />
   <img src="public/images/ethereum.webp" width="40" alt="Ethereum" />
-  <img src="public/images/web3.webp" width="40" alt="Web3.js" />
-  <img src="public/images/solana.webp" width="40" alt="Solana" />
+  <img src="public/images/web3.png" width="40" alt="Web3.js" />
+  <img src="public/images/solana.png" width="40" alt="Solana" />
   <img src="public/images/hardhat.webp" width="40" alt="Hardhat" />
   <img src="public/images/ganache.webp" width="40" alt="Ganache" />
   <img src="public/images/metamask.webp" width="40" alt="MetaMask" />
   <img src="public/images/phantom.webp" width="40" alt="Phantom" />
-  <img src="public/images/nft.webp" width="40" alt="NFT" />
+  <img src="public/images/nft.png" width="40" alt="NFT" />
   <img src="public/images/defi.webp" width="40" alt="DeFi" />
 </p>
 
