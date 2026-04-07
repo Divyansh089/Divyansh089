@@ -1,9 +1,11 @@
-<h1 align="center">Hey there, I'm <span style="color:#8e2de2;">Divyansh Patel 👋</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 Web 3.0 Enthusiast | 🦄 NFT & DeFi Believer</h3>
+<div style="background-image: url('public/images/black-shapes.webp'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 10px;">
+  <h1 align="center">Hey there, I'm <span style="color:#8e2de2;">Divyansh Patel 👋</span></h1>
+  <h3 align="center">🚀 Full-Stack Developer | 🧠 Web 3.0 Enthusiast | 🦄 NFT & DeFi Believer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Building+the+Future+of+Web3...;Decentralize+Everything...;Smart+Contracts+are+my+superpower..." alt="Typing SVG" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Building+the+Future+of+Web3...;Decentralize+Everything...;Smart+Contracts+are+my+superpower..." alt="Typing SVG" />
+  </p>
+</div>
 
 ---
 
