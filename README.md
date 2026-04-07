@@ -22,7 +22,7 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="public/images/tailwindcss.png" width="40" alt="Tailwindcss" />
+  <img src="public/images/tailwindcss.webp" width="40" alt="Tailwindcss" />
 </p>
 
 ### 🔗 Web3 Stack
@@ -45,7 +45,7 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=divyansh089&show_icons=true&theme=tokyonight&hide=issues" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=tokyonight" />
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh089&layout=compact&theme=tokyonight" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=divyansh089&show_icons=true&theme=tokyonight&hide=issues" />
     </td>
   </tr>
 </table>
