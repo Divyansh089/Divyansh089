@@ -42,17 +42,17 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 
 ### 📊 GitHub Stats
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=tokyonight" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh089&layout=compact&theme=tokyonight" />
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=divyansh089&show_icons=true&theme=tokyonight&hide=issues" />
     </td>
   </tr>
@@ -65,5 +65,16 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 </p>
 ### 🌐 Let’s Connect
 
-- 💬 I’m open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
-- 📫 [Twitter](https://x.com/DPatel8085) | [LinkedIn](https://linkedin.com/in/pateldivyansh131) | [Portfolio](https://yourportfolio.io/)
+<p align="center">
+  <a href="https://x.com/DPatel8085" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/pateldivyansh131" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/dpatel3839" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" alt="Discord" />
+  </a>
+</p>
+
+- 💬 I'm open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
