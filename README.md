@@ -28,12 +28,15 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 ### 🔗 Web3 Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@web3icons/react@latest/icons/eth.svg" width="32" alt="Ethereum" />
-  <img src="https://cdn.jsdelivr.net/gh/ChainSafe/web3.js/docs/web3js.png" width="100" alt="Web3.js" />
-  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/resources/logo-ethers.png" width="100" alt="Ethers.js" />
-  <img src="https://hardhat.org/assets/hardhat-logo.png" width="50" alt="Hardhat" />
-  <img src="https://trufflesuite.com/img/ganache-logo.png" width="80" alt="Ganache" />
-  <img src="https://remix.ethereum.org/assets/img/icon.png" width="40" alt="Remix IDE" />
+  <img src="public/images/ethereum.webp" width="40" alt="Ethereum" />
+  <img src="public/images/web3.webp" width="40" alt="Web3.js" />
+  <img src="public/images/solana.webp" width="40" alt="Solana" />
+  <img src="public/images/hardhat.webp" width="40" alt="Hardhat" />
+  <img src="public/images/ganache.webp" width="40" alt="Ganache" />
+  <img src="public/images/metamask.webp" width="40" alt="MetaMask" />
+  <img src="public/images/phantom.webp" width="40" alt="Phantom" />
+  <img src="public/images/nft.webp" width="40" alt="NFT" />
+  <img src="public/images/defi.webp" width="40" alt="DeFi" />
 </p>
 
 ### 📊 GitHub Stats
