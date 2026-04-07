@@ -30,8 +30,8 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 <p align="center">
   <img src="public/images/bitcoin.webp" width="40" alt="Bitcoin" />
   <img src="public/images/ethereum.webp" width="40" alt="Ethereum" />
-  <img src="public/images/web3.webp" width="40" alt="Web3.js" />
-  <img src="public/images/solana.webp" width="40" alt="Solana" />
+  <img src="public/images/web3.png" width="40" alt="Web3.js" />
+  <img src="public/images/solana.png" width="40" alt="Solana" />
   <img src="public/images/hardhat.webp" width="40" alt="Hardhat" />
   <img src="public/images/ganache.webp" width="40" alt="Ganache" />
   <img src="public/images/metamask.webp" width="40" alt="MetaMask" />
