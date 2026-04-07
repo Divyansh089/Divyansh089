@@ -36,7 +36,7 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
   <img src="public/images/ganache.webp" width="40" alt="Ganache" />
   <img src="public/images/metamask.webp" width="40" alt="MetaMask" />
   <img src="public/images/phantom.webp" width="40" alt="Phantom" />
-  <img src="public/images/nft.png" width="40" alt="NFT" />
+  <img src="public/images/nft.webp" width="40" alt="NFT" />
   <img src="public/images/defi.webp" width="40" alt="DeFi" />
 </p>
 
