@@ -9,7 +9,7 @@
 
 ### 🧬 About Me
 
-I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the decentralized future of the internet. From NFTs and DeFi to smart contracts and DAOs, I'm all about building trustless systems using modern web technologies and blockchain protocols. Let's break the chains of centralization together!
+## I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the decentralized future of the internet. From NFTs and DeFi to smart contracts and DAOs, I'm all about building trustless systems using modern web technologies and blockchain protocols. Let's break the chains of centralization together!
 
 ### 🛠️ My Tech Arsenal
 
@@ -20,7 +20,7 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
+  <img src="public/images/express.webp" width="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
   <img src="public/images/tailwindcss.png" width="40" alt="Tailwindcss" />
 </p>
@@ -68,15 +68,13 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 
 - 💬 I'm open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
 <p align="left">
-  <a href="https://x.com/DPatel8085" target="_blank">
+  <a href="https://x.com/DPatel8085" target="_blank" style="margin-right: 20px;">
     <img src="public/images/x.webp" width="40" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/pateldivyansh131" target="_blank">
+  <a href="https://linkedin.com/in/pateldivyansh131" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/dpatel3839" target="_blank">
     <img src="public/images/discord.webp" width="40" alt="Discord" />
   </a>
 </p>
-
-
