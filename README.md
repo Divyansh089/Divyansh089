@@ -42,13 +42,21 @@ I'm Divyansh Patel — a passionate full-stack Web 3.0 developer shaping the dec
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansh089&show_icons=true&theme=tokyonight&hide=issues" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh089&layout=compact&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=divyansh089&show_icons=true&theme=tokyonight&hide=issues" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh089&layout=compact&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ### 👾 Pacman Contribution Graph
 
