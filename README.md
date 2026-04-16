@@ -81,6 +81,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/dpatel3839" target="_blank">
-    <img src="public/images/discord.webp" width="40" alt="Discord" />
+    <img src="public/images/discord.webp" width="40" alt="discord" />
+  </a>
+  <a href="https://d-folio-nu.vercel.app/" target="_blank">
+    <img src="public/images/dp-bg.png" width="40" alt="portfolio" />
   </a>
 </p>
