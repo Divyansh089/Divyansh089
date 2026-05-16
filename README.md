@@ -46,29 +46,43 @@
   <img src="public/images/defi.webp" width="40" alt="DeFi" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh089&layout=compact&theme=tokyonight" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=divyansh089&show_icons=true&theme=tokyonight&hide=issues" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=divyansh089&theme=flat&column=8&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</div>
 
-## 👾 Pacman Contribution Graph
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Divyansh089/Divyansh089/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-</p>
+<div align="center">
+  <table style="border: none; border-collapse: collapse; background: transparent;">
+    <tr>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=divyansh089&show_icons=true&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3&hide=issues" alt="GitHub Stats" height="180px" />
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh089&layout=compact&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3" alt="Top Languages" height="180px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="border: none; padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=default&border_radius=10&background=ffffff&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakNum=0070f3&sideNums=0070f3&sideLabels=000000&dates=000000" alt="Streak Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 👾 Contribution Journey
+
+<div align="center">
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; background: white; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: #0070f3; font-family: sans-serif;">Pacman Activity Graph</h3>
+    <img src="https://raw.githubusercontent.com/Divyansh089/Divyansh089/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+  </div>
+</div>
 
 ## 🌐 Let’s Connect
 
