@@ -61,10 +61,10 @@
   <table style="border: none; border-collapse: collapse; background: transparent;">
     <tr>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats-one.vercel.app/api?username=divyansh089&show_icons=true&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3&hide=issues" alt="GitHub Stats" height="180px" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyansh089&show_icons=true&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3&hide=issues&v=1" alt="GitHub Stats" height="180px" />
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=divyansh089&layout=compact&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3" alt="Top Languages" height="180px" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=divyansh089&layout=compact&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3&v=1" alt="Top Languages" height="180px" />
       </td>
     </tr>
     <tr>
