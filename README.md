@@ -46,7 +46,7 @@
   <img src="public/images/defi.webp" width="40" alt="DeFi" />
 </p>
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
   <!-- GitHub Trophies -->
