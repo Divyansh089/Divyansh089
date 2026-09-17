@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=default&border_radius=10&background=ffffff&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakNum=0070f3&sideNums=0070f3&sideLabels=000000&dates=000000" alt="Streak Stats" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=default&border_radius=10&background=ffffff&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakNum=0070f3&sideNums=0070f3&sideLabels=000000&dates=000000" alt="Streak Stats" height="180px" />
       </td>
     </tr>
   </table>
