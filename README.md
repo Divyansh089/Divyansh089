@@ -49,15 +49,6 @@
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%230070f3" width="24" style="vertical-align: middle;" /> GitHub Stats
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=divyansh089&theme=flat&column=8&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <table style="border: none; border-collapse: collapse; background: transparent;">
     <tr>
       <td align="center" style="border: none; padding: 10px;">
