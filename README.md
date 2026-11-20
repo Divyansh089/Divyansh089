@@ -79,16 +79,19 @@
 
 - <img src="https://api.iconify.design/lucide/message-square.svg?color=%230070f3" width="20" style="vertical-align: middle;" /> I'm open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
 <p align="left">
-  <a href="https://d-folio-nu.vercel.app/" target="_blank" style="margin-right: 12px; margin-bottom: 10px; display: inline-block;">
+  <a href="https://d-folio-nu.vercel.app/" target="_blank">
     <img src="public/images/button-portfolio.svg" height="44" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/pateldivyansh131" target="_blank" style="margin-right: 12px; margin-bottom: 10px; display: inline-block;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/pateldivyansh131" target="_blank">
     <img src="public/images/button-linkedin.svg" height="44" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/DPatel8085" target="_blank" style="margin-right: 12px; margin-bottom: 10px; display: inline-block;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/DPatel8085" target="_blank">
     <img src="public/images/button-x.svg" height="44" alt="Twitter / X" />
   </a>
-  <a href="https://discord.com/users/dpatel3839" target="_blank" style="margin-right: 12px; margin-bottom: 10px; display: inline-block;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/dpatel3839" target="_blank">
     <img src="public/images/button-discord.svg" height="44" alt="Discord" />
   </a>
 </p>
