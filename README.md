@@ -79,16 +79,16 @@
 
 - <img src="https://api.iconify.design/lucide/message-square.svg?color=%230070f3" width="20" style="vertical-align: middle;" /> I'm open to collaborations, freelance gigs, or talking DeFi and smart contract architectures.
 <p align="left">
-  <a href="https://x.com/DPatel8085" target="_blank" style="margin-right: 20px;">
-    <img src="public/images/x.webp" width="40" alt="Twitter" />
+  <a href="https://d-folio-nu.vercel.app/" target="_blank" style="margin-right: 12px; margin-bottom: 10px; display: inline-block;">
+    <img src="public/images/button-portfolio.svg" height="44" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/pateldivyansh131" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/pateldivyansh131" target="_blank" style="margin-right: 12px; margin-bottom: 10px; display: inline-block;">
+    <img src="public/images/button-linkedin.svg" height="44" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/dpatel3839" target="_blank">
-    <img src="public/images/discord.webp" width="40" alt="discord" />
+  <a href="https://x.com/DPatel8085" target="_blank" style="margin-right: 12px; margin-bottom: 10px; display: inline-block;">
+    <img src="public/images/button-x.svg" height="44" alt="Twitter / X" />
   </a>
-  <a href="https://d-folio-nu.vercel.app/" target="_blank">
-    <img src="public/images/dp-bg.png" width="40" alt="portfolio" />
+  <a href="https://discord.com/users/dpatel3839" target="_blank" style="margin-right: 12px; margin-bottom: 10px; display: inline-block;">
+    <img src="public/images/button-discord.svg" height="44" alt="Discord" />
   </a>
 </p>
