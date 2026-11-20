@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Generate profile assets and animations
 
 on:
   schedule: # execute every 6 hours
@@ -18,13 +18,52 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Checkout previous assets from output branch
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: output
+          path: prev_output
+
+      - name: Generate pacman animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           gameTheme: github
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Update GitHub stats, top languages, and streak SVGs
+        run: |
+          mkdir -p dist
+
+          # Copy previously cached SVGs into dist so they are never lost if external services fail
+          if [ -d prev_output ]; then
+            cp prev_output/github-stats.svg dist/ 2>/dev/null || true
+            cp prev_output/top-langs.svg dist/ 2>/dev/null || true
+            cp prev_output/streak-stats.svg dist/ 2>/dev/null || true
+          fi
+
+          fetch_svg() {
+            url="$1"
+            target="$2"
+            temp_file="temp_${target}"
+
+            echo "Fetching $target..."
+            curl -sSL --max-time 20 "$url" -o "$temp_file" || true
+
+            if [ -s "$temp_file" ] && grep -q "<svg" "$temp_file" && ! grep -qi "Payment Required" "$temp_file" && ! grep -qi "DEPLOYMENT_DISABLED" "$temp_file" && ! grep -qi "Rate Limit" "$temp_file"; then
+              mv "$temp_file" "dist/$target"
+              echo "Updated dist/$target successfully."
+            else
+              echo "Failed to fetch valid SVG for $target, keeping cached version."
+              rm -f "$temp_file"
+            fi
+          }
+
+          fetch_svg "https://github-readme-stats.vercel.app/api?username=divyansh089&show_icons=true&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3&hide=issues&v=1" "github-stats.svg"
+          fetch_svg "https://github-readme-stats.vercel.app/api/top-langs?username=divyansh089&layout=compact&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3&v=1" "top-langs.svg"
+          fetch_svg "https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=default&border_radius=10&background=ffffff&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakNum=0070f3&sideNums=0070f3&sideLabels=000000&dates=000000" "streak-stats.svg"
+
+      - name: Push all assets to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

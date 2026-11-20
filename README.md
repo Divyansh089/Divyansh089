@@ -52,15 +52,15 @@
   <table style="border: none; border-collapse: collapse; background: transparent;">
     <tr>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyansh089&show_icons=true&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3&hide=issues&v=1" alt="GitHub Stats" height="180px" />
+        <img src="https://raw.githubusercontent.com/Divyansh089/Divyansh089/output/github-stats.svg" alt="GitHub Stats" height="180px" />
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=divyansh089&layout=compact&theme=default&border_radius=10&bg_color=ffffff&title_color=0070f3&text_color=000000&icon_color=0070f3&v=1" alt="Top Languages" height="180px" />
+        <img src="https://raw.githubusercontent.com/Divyansh089/Divyansh089/output/top-langs.svg" alt="Top Languages" height="180px" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh089&theme=default&border_radius=10&background=ffffff&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakNum=0070f3&sideNums=0070f3&sideLabels=000000&dates=000000" alt="Streak Stats" height="180px" />
+        <img src="https://raw.githubusercontent.com/Divyansh089/Divyansh089/output/streak-stats.svg" alt="Streak Stats" height="180px" />
       </td>
     </tr>
   </table>
